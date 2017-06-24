@@ -1,4 +1,4 @@
-# Escapy project <a href="https://github.com/henryco/Escapy-des-doc/blob/master/desdoc.pdf">design document[rus]</a>
+# Escapy project <a href="https://github.com/henryco/Escapy-des-doc/blob/master/desdoc.pdf">design document [rus]</a>
    * <a href="#">**Project home page**</a>
    * <a href="https://github.com/henryco/Escapy">**Escapy engine.**</a>
    * <a href="https://github.com/henryco/Escapy-des-doc/blob/master/CHANGELOG.md">**Changelog**</a>
