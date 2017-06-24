@@ -1,6 +1,6 @@
-# Escpay project design document
+# Escapy project design <a href="https://github.com/henryco/Escapy-des-doc/blob/master/desdoc.pdf">document</a>
    * <a href="#">**Project home page**</a>
-   * <a href="https://github.com/henryco/Escapy">**Escpay engine.**</a>
+   * <a href="https://github.com/henryco/Escapy">**Escapy engine.**</a>
    * <a href="https://github.com/henryco/Escapy-des-doc/blob/master/CHANGELOG.md">**Changelog**</a>
 
 
