@@ -2,6 +2,7 @@
    * <a href="#">**Project home page**</a>
    * <a href="https://github.com/henryco/Escapy">**Escapy engine.**</a>
    * <a href="https://github.com/henryco/Escapy-des-doc/blob/master/CHANGELOG.md">**Changelog**</a>
+   * <a href="https://github.com/henryco/Escapy-des-doc/raw/master/desdoc.pdf">**Download**</a>
 
 
 ## Before compile 
